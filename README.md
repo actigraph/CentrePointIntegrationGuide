@@ -22,14 +22,22 @@ The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentati
 
 The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation) supports the following operations:
 
++ Retrieve RAW sub-second subject data
++ Retrieve Epoch summary subject data
 + Adding/Editing Subjects
 + Assigning/Deploying ActiGraph Monitor to subject
 + Un-assigning ActiGraph Monitor from subject
-+ Retrieve RAW sub-second subject data
-+ Retrieve Epoch summary subject data
 + Retrieve general information on study/site configurations & subjects
 
+The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation) will support the following operations in the future:
+
++ Retrieve analytics data (i.e. sleep periods, wear periods, steps, cut points, etc.)
+
 #### CentrePoint V2 API
+
+ActiGraph continues to support the [CentrePoint V2 API](https://github.com/actigraph/StudyAdminAPIDocumentation). This API
+
+which currently supports the following operations. 
 
 
 
