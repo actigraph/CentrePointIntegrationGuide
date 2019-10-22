@@ -1,4 +1,4 @@
-# ActiGraph's CentrePoint System Integration Guide
+# CentrePoint System Integration Guide
 
 ## Overview
 This document contains an overview of the system integration options with ActiGraph’s [CentrePoint](https://actigraphcorp.com/centrepoint/) System
