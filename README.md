@@ -17,6 +17,16 @@ With the Webhook architecture, CentrePoint will PUSH webhook events to clients c
 
 ActiGraph's has recently lauched the [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation) which provides additional flexibility to retrieve RAW sub-second resolution data.
 
-The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation) provides API endpoints for clients to retrieve RAW sub-second resolution actigraphy data between given time ranges which can be easily consumed and serialized. To view the supported formats/data definitions for retriiving RAW data in the [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation), view [RAW Data File Formats]( https://github.com/actigraph/CentrePoint3APIDocumentation/blob/master/sections/raw_data_file_formats.md)
+The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation) provides API endpoints for clients to retrieve RAW sub-second resolution actigraphy data between given time ranges which can be easily consumed and serialized. To view the supported formats/data definitions for retriiving RAW data in the [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation), view [RAW Data File Formats]( https://github.com/actigraph/CentrePoint3APIDocumentation/blob/master/sections/raw_data_file_formats.md).
+
+
+The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation) supports the following operations:
+
++ Adding/Editing Subject
++ Assigning/Deploying ActiGraph Monitor to subject
++ Un-assigning ActiGraph Monitor from subject
++ Retrieve RAW sub-second subject data
++ Retrieve Epoch summary subject data
+
 
 
