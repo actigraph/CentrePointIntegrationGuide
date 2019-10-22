@@ -14,6 +14,10 @@ Refer to the diagram below:
 
 ![Kiku](webhook_diagram.png)
 
+## CentrePoint *PUSH* Service Architecture 
+To provide additional flexibility the integration between external systems, ActiGraph will be supportting a *Push* service architecture in the near future. Here ActiGraph's software engineering team will likely design a means to push RAW/EPOCH data files to a logical cloud container (i.e. Azure storage account or AWS Bucket). Futhermore, ActiGraph intends to support the *Pushing* of analytics related data via subject daily aggregates/staticts (more details to come).
+
+
 ## CentrePoint V3 API
 
 ActiGraph's has recently lauched the [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation) which provides additional flexibility to retrieve RAW sub-second resolution data uses OAuth 2.0 for it's authorization flow.
