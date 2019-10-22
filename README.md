@@ -15,7 +15,7 @@ Refer to the diagram below:
 ![Kiku](webhook_diagram.png)
 
 ## CentrePoint *PUSH* Service Architecture 
-To faciliate future integrations between CentrePoint and any external system, ActiGraph will be supportting a *Push* service architecture in the near future. Here ActiGraph's software engineering team will likely design a means to *PUSH* RAW/EPOCH data files to a study-configured logical cloud container (i.e. Azure storage account or AWS Bucket). In addition to RAW/EPOCH data files, ActiGraph intends to support the *Pushing* of analytics related data through calculated subject daily aggregates/statistics
+To faciliate future integrations between CentrePoint and external systems, ActiGraph will be supportting a *Push* service architecture in the near future. Here ActiGraph's software engineering team will likely design a means to *PUSH* RAW/EPOCH data files to a study-configured logical cloud container (i.e. Azure storage account or AWS Bucket). In addition to RAW/EPOCH data files, ActiGraph intends to support the *Pushing* of analytics related data through calculated subject daily aggregates/statistics
 
 
 ## CentrePoint V3 API
