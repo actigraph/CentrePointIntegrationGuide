@@ -26,7 +26,7 @@ The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentati
 + Adding/Editing Subjects
 + Assigning/Deploying ActiGraph Monitor to subject
 + Un-assigning ActiGraph Monitor from subject
-+ Retrieve general information on study/site configurations & subjects
++ Retrieve general information on subjects & study/site configurations
 
 #### CentrePoint V3 API future cababilities
 
@@ -39,6 +39,13 @@ The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentati
 ActiGraph continues to support the [CentrePoint V2 API](https://github.com/actigraph/StudyAdminAPIDocumentation). This API is based on a different authentication mechanism that the CentrePoint V3 API and therefore requires a different set of credentials.
 
 The CentrePoint V2 API currently supports the following operations:
+
++ Retrieve 60-second epoch summary data for subjects
++ Retrieve RAW sub-second subject data (limited to data files in GT3X format for epoch-based studies)
++ Adding/Editing Subjects
++ Assigning/Deploying ActiGraph Monitor to subject
++ Un-assigning ActiGraph Monitor from subject
++ Retrieve general information on subjects & study/site configurations
 
 
 
