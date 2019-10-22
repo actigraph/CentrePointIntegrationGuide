@@ -40,9 +40,9 @@ ActiGraph continues to support the [CentrePoint V2 API](https://github.com/actig
 
 The CentrePoint V2 API currently supports the following operations:
 
-+ Retrieve 60-second epoch summary data for subjects
-+ Retrieve RAW sub-second subject data (limited to data files in GT3X format for epoch-based studies)
-+ Retrieve general information on subjects & study/site configurations
++ Retrieve subject epoch summary data  (limited to 60-sec/minute epoch length)
++ Retrieve subject RAW sub-second data (limited to GT3X format, limited to single data range based on upload, limited to epoch-based studies)
++ Retrieve subject analytics data (i.e. sleep periods, wear periods, daily statistics, steps, cut points, etc.)
 + Adding/Editing Subjects
 + Assigning/Deploying ActiGraph Monitor to subject
 + Un-assigning ActiGraph Monitor from subject
