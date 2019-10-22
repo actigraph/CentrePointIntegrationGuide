@@ -4,7 +4,7 @@
 This document contains an overview of the system integration options with ActiGraph’s [CentrePoint](https://actigraphcorp.com/centrepoint/) System
 
 ## CentrePoint Webhook System
-An available option to have data *flowing* from the CentrePoint System into any external Electronic Data Capture (EDC) system is to utilize the [CentrePoint Webhook System](https://github.com/actigraph/CentrePointWebhookDocumentation). 
+An available option to have data *flowing* from the CentrePoint System into any external Electronic Data Capture (EDC) or other systems is to utilize the [CentrePoint Webhook System](https://github.com/actigraph/CentrePointWebhookDocumentation). 
 
 Webhooks allow you to build or set up integrations which subscribe to certain events on ActiGraph's CentrePoint ecosystem. When one of those events is triggered, CentrePoint will send a HTTP POST payload to the webhook's configured URL. 
 
