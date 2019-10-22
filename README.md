@@ -10,6 +10,8 @@ Webhooks allow you to build or set up integrations which subscribe to certain ev
 
 With the Webhook architecture, CentrePoint will PUSH webhook events to clients containing specific metadata on the event which allow clients to then PULL in the related data. EDCs (and other clients) can utilze the CentrePoint APIs to retrieve new subject data as it becomes available (or is processed). 
 
+Refer to the diagram below:
+
 ![Kiku](2019-10-22_11-10-54.png)
 
 ## CentrePoint V3 API
