@@ -22,11 +22,12 @@ The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentati
 
 The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation) supports the following operations:
 
-+ Adding/Editing Subject
++ Adding/Editing Subjects
 + Assigning/Deploying ActiGraph Monitor to subject
 + Un-assigning ActiGraph Monitor from subject
 + Retrieve RAW sub-second subject data
 + Retrieve Epoch summary subject data
++ Retrieve general information on study/site configurations & subjects
 
 
 
