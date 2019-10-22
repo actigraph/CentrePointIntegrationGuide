@@ -20,7 +20,7 @@ To faciliate future integrations between CentrePoint and external systems, ActiG
 
 ## CentrePoint V3 API
 
-ActiGraph's has recently lauched the [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation) which provides additional flexibility to retrieve RAW sub-second resolution data uses OAuth 2.0 for it's authorization flow.
+ActiGraph's has recently lauched the [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation) which provides additional flexibility to retrieve RAW sub-second resolution data. The CentrePoint V3 API uses the OAuth 2.0 framework for it's authorization flow.
 
 The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation) provides API endpoints for clients to retrieve RAW sub-second resolution actigraphy data between given time ranges which can be easily consumed and serialized. To view the supported formats/data definitions for retriiving RAW data in the [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation), view [RAW Data File Formats]( https://github.com/actigraph/CentrePoint3APIDocumentation/blob/master/sections/raw_data_file_formats.md).
 
