@@ -32,13 +32,13 @@ The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentati
 
 The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation) will support the following operations in the future:
 
-+ Retrieve analytics data (i.e. sleep periods, wear periods, steps, cut points, etc.)
++ Retrieve subject analytics data (i.e. sleep periods, wear periods, daily statistics, steps, cut points, etc.)
 
 ## CentrePoint V2 API
 
-ActiGraph continues to support the [CentrePoint V2 API](https://github.com/actigraph/StudyAdminAPIDocumentation). This API
+ActiGraph continues to support the [CentrePoint V2 API](https://github.com/actigraph/StudyAdminAPIDocumentation). This API is based on a different authentication mechanism that the CentrePoint V3 API and therefore requires a different set of credentials.
 
-which currently supports the following operations. 
+The CentrePoint V2 API currently supports the following operations:
 
 
 
