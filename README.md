@@ -11,9 +11,7 @@ Webhooks allow you to build or set up integrations which subscribe to certain ev
 With the Webhook architecture, CentrePoint will PUSH webhook events to clients containing specific metadata on the event which allow clients to then PULL in the related data. EDCs (and other clients) can utilze the CentrePoint APIs to retrieve new subject data as it becomes available (or is processed). 
 
 
-## CentrePoint APIs
-
-### CentrePoint V3 API
+## CentrePoint V3 API
 
 ActiGraph's has recently lauched the [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation) which provides additional flexibility to retrieve RAW sub-second resolution data.
 
@@ -36,7 +34,7 @@ The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentati
 
 + Retrieve analytics data (i.e. sleep periods, wear periods, steps, cut points, etc.)
 
-### CentrePoint V2 API
+## CentrePoint V2 API
 
 ActiGraph continues to support the [CentrePoint V2 API](https://github.com/actigraph/StudyAdminAPIDocumentation). This API
 
