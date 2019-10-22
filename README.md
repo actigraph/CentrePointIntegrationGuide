@@ -12,7 +12,7 @@ With the Webhook architecture, CentrePoint will PUSH webhook events to clients c
 
 Refer to the diagram below:
 
-![Kiku](2019-10-22_11-10-54.png)
+!(2019-10-22_11-10-54.png)
 
 ## CentrePoint V3 API
 
