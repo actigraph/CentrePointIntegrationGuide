@@ -21,7 +21,7 @@ The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentati
 
 The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation) supports the following operations:
 
-+ Retrieve RAW sub-second subject data
++ Retrieve RAW sub-second subject data (between time ranges)
 + Retrieve Epoch summary records with a variable summary length (i.e. 15-sec, 30-sec, and/or 60-sec epoch length)
 + Adding/Editing Subjects
 + Assigning/Deploying ActiGraph Monitor to subject
