@@ -13,12 +13,13 @@ With the Webhook architecture, CentrePoint will PUSH webhook events to clients c
 
 ## CentrePoint APIs
 
-#### CentrePoint V3 API
+### CentrePoint V3 API
 
 ActiGraph's has recently lauched the [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation) which provides additional flexibility to retrieve RAW sub-second resolution data.
 
 The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation) provides API endpoints for clients to retrieve RAW sub-second resolution actigraphy data between given time ranges which can be easily consumed and serialized. To view the supported formats/data definitions for retriiving RAW data in the [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation), view [RAW Data File Formats]( https://github.com/actigraph/CentrePoint3APIDocumentation/blob/master/sections/raw_data_file_formats.md).
 
+#### [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation) cababilities as of today
 
 The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation) supports the following operations:
 
@@ -29,11 +30,13 @@ The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentati
 + Un-assigning ActiGraph Monitor from subject
 + Retrieve general information on study/site configurations & subjects
 
+#### [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation) future cababilities
+
 The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation) will support the following operations in the future:
 
 + Retrieve analytics data (i.e. sleep periods, wear periods, steps, cut points, etc.)
 
-#### CentrePoint V2 API
+### CentrePoint V2 API
 
 ActiGraph continues to support the [CentrePoint V2 API](https://github.com/actigraph/StudyAdminAPIDocumentation). This API
 
