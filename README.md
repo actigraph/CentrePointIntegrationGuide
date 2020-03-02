@@ -39,7 +39,7 @@ The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentati
 
 The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation) will support the following operations in the future:
 
-+ Retrieve subject analytics data (i.e. sleep periods, wear periods, daily statistics, steps, cut points, etc.)
++ Retrieve subject analytics data (i.e. sleep/wear data, daily-level statistics, step counts, activity intensity classifications, cut points, etc.)
 
 ## CentrePoint V2 API
 
