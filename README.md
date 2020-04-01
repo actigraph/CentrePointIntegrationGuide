@@ -28,8 +28,8 @@ The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentati
 
 The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation) supports the following operations:
 
-+ Retrieve RAW sub-second subject data (between time ranges)
-+ Retrieve Epoch summary records with a variable summary length (i.e. 15-sec, 30-sec, 60-sec epoch length)
++ Dynamically retrieve RAW sub-second subject data (between time ranges)
++ Dynamically retrieve EPOCH summary records with a variable summary length (i.e. 15-sec, 30-sec, or 60-sec epoch length)
 + Adding/Editing Subjects
 + Assigning/Deploying ActiGraph Monitor to subject
 + Un-assigning ActiGraph Monitor from subject
@@ -48,7 +48,7 @@ ActiGraph continues to support the [CentrePoint V2 API](https://github.com/actig
 The CentrePoint V2 API currently supports the following operations:
 
 + Retrieve subject epoch summary data  (limited to 60-sec/minute epoch length)
-+ Retrieve subject RAW sub-second data (limited to GT3X format, limited to single data range based on uploads, limited to epoch-based studies, RAW data retrieval for CPW01 Insight Watch not supported in CP V2 API)
++ Retrieve subject RAW sub-second data (limited to GT3X format, limited to single data range based on uploads, limited to epoch-based studies (where data collection mode RAW + EPOCH), RAW data retrieval for CPW01 Insight Watch not supported in CP V2 API)
 + Retrieve subject analytics data (i.e. sleep periods, wear periods, daily statistics, steps, cut points, etc.)
 + Adding/Editing Subjects
 + Assigning/Deploying ActiGraph Monitor to subject
