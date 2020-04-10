@@ -1,7 +1,7 @@
 # CentrePoint System Integration Guide
 
 ## Overview
-This document contains an overview of the system integration options with ActiGraph’s [CentrePoint](https://actigraphcorp.com/centrepoint/) System
+This document contains an overview of the system integration options with ActiGraph’s [CentrePoint](https://actigraphcorp.com/centrepoint/) Cloud Eco-system.
 
 ## CentrePoint Webhook System
 An available option to have data *flowing* from the CentrePoint System into an Electronic Data Capture (EDC) (or other external) system is to utilize the [CentrePoint Webhook System](https://github.com/actigraph/CentrePointWebhookDocumentation). 
