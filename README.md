@@ -15,7 +15,7 @@ Refer to the diagram below:
 ![Kiku](webhook_diagram.png)
 
 ## CentrePoint *PUSH* Service Architecture 
-To support integrations with external EDC systems, ActiGraph supports a *PUSH* service architecture. 
+To faciliate integrations with external EDC systems, ActiGraph supports a *PUSH* service architecture. 
 
 #### CentrePoint PUSH cababilities (as of today)
 
