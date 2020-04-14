@@ -19,7 +19,7 @@ To facilitate integrations with external EDC systems, ActiGraph supports a *PUSH
 
 #### CentrePoint PUSH cababilities (as of today)
 
-+ Ability to *PUSH* day-level analytics data (or subject daily aggregates/statistics) via [CentrePoint Webhook System](https://github.com/actigraph/CentrePointWebhookDocumentation)
++ Ability to *PUSH* day-level analytics data (or subject daily aggregates/statistics) via the [Daily Statistics Complete Event](https://github.com/actigraph/CentrePointWebhookDocumentation/blob/master/event_types.md#daily-statistics-complete-event) in the [CentrePoint Webhook System](https://github.com/actigraph/CentrePointWebhookDocumentation)
 
 #### CentrePoint PUSH cababilities (future cababilities)
 
