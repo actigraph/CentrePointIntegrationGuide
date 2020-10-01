@@ -23,6 +23,7 @@ To facilitate integrations with external EDC systems, ActiGraph supports a *PUSH
 
 #### CentrePoint PUSH cababilities (future cababilities)
 
++ Ability to *PUSH* minute-level analytics data via REST call
 + Ability to *PUSH* sub-second RAW data to a study-configured logical cloud container
 
 
