@@ -43,12 +43,7 @@ The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentati
 + Assigning/Deploying ActiGraph Monitor to subject
 + Un-assigning ActiGraph Monitor from subject
 + Retrieve general information on subjects & study/site configurations
-
-#### CentrePoint V3 API (future cababilities)
-
-The [CentrePoint V3 API](https://github.com/actigraph/CentrePoint3APIDocumentation) will support the following operations in the future:
-
-+ Retrieve subject analytics data (i.e. sleep/wear data, day-level statistics, step counts, activity intensity classifications, cut points, etc.)
++ Retrieve subject analytics data (i.e. CPW01 event markers, sleep periods, and minute/daily summary data which encapsulates steps, wear, sleep, energy expenditure, activity intensity classifications/cut points, etc.)
 
 ## CentrePoint V2 API
 
